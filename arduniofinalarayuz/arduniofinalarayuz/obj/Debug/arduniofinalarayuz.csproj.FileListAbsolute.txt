@@ -1,0 +1,10 @@
+C:\Users\DİLARA SEVİM POLAT\Desktop\2022_Bahar\gomulu\gomulu_final_projesi\arduniofinalarayuz\arduniofinalarayuz\bin\Debug\arduniofinalarayuz.exe.config
+C:\Users\DİLARA SEVİM POLAT\Desktop\2022_Bahar\gomulu\gomulu_final_projesi\arduniofinalarayuz\arduniofinalarayuz\bin\Debug\arduniofinalarayuz.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\2022_Bahar\gomulu\gomulu_final_projesi\arduniofinalarayuz\arduniofinalarayuz\bin\Debug\arduniofinalarayuz.pdb
+C:\Users\DİLARA SEVİM POLAT\Desktop\2022_Bahar\gomulu\gomulu_final_projesi\arduniofinalarayuz\arduniofinalarayuz\obj\Debug\arduniofinalarayuz.csproj.AssemblyReference.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\2022_Bahar\gomulu\gomulu_final_projesi\arduniofinalarayuz\arduniofinalarayuz\obj\Debug\arduniofinalarayuz.Form1.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\2022_Bahar\gomulu\gomulu_final_projesi\arduniofinalarayuz\arduniofinalarayuz\obj\Debug\arduniofinalarayuz.Properties.Resources.resources
+C:\Users\DİLARA SEVİM POLAT\Desktop\2022_Bahar\gomulu\gomulu_final_projesi\arduniofinalarayuz\arduniofinalarayuz\obj\Debug\arduniofinalarayuz.csproj.GenerateResource.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\2022_Bahar\gomulu\gomulu_final_projesi\arduniofinalarayuz\arduniofinalarayuz\obj\Debug\arduniofinalarayuz.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA SEVİM POLAT\Desktop\2022_Bahar\gomulu\gomulu_final_projesi\arduniofinalarayuz\arduniofinalarayuz\obj\Debug\arduniofinalarayuz.exe
+C:\Users\DİLARA SEVİM POLAT\Desktop\2022_Bahar\gomulu\gomulu_final_projesi\arduniofinalarayuz\arduniofinalarayuz\obj\Debug\arduniofinalarayuz.pdb
