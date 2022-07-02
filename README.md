@@ -1,1 +1,1 @@
-# Gaming_with_Arduino_Distance-_Sensor
+# Gaming_with_Arduino_Distance_Sensor
