@@ -6,11 +6,11 @@ Projenin konusu Ardunio Uno’nun mesafe ölçer sensörüyle C# visual studio a
 Bu projede oyun olarak tasarlanacaktır fakat araç parketme,  görme engeli olan insanların hayatlarını kolaylaştırmak adına, ultrasonik mesafe sensörü yardımıyla önüne çıkan cisimleri algılayıp sesli uyarı vererek objelere çarpma veya cisimlere takılmalarını engellemek amacıyla elektronik bir devreye de dönüştürülebilir.
 
 
-***Projenin ardunio ve C# arayüzlü görünümü ***
+***Projenin ardunio ve C# arayüzlü görünümü***
 
 ![image](https://user-images.githubusercontent.com/59871974/177016131-99d073a0-dca5-4867-91a1-79c33f0573ca.png)
 
-***PROJENİN ÇİZİMİ(FRITZING) ***
+***PROJENİN ÇİZİMİ(FRITZING)***
 ![image](https://user-images.githubusercontent.com/59871974/177016137-3fba4be6-2882-45be-9ba9-a6d384f31d69.png)
 
 ***PROJENİN AKIŞ DİYAGRAMI***
@@ -25,12 +25,12 @@ Bu projede oyun olarak tasarlanacaktır fakat araç parketme,  görme engeli ola
 ![image](https://user-images.githubusercontent.com/59871974/177016155-e5fab666-2229-432f-8ce1-0eef1e2ff8ab.png)
 
 
-***Projenin çalışma sırasındaki görünümü ***
+***Projenin çalışma sırasındaki görünümü***
 
 ![image](https://user-images.githubusercontent.com/59871974/177016162-6b6d59ab-2d10-445d-b6f9-f031b7cafa80.png)
 
 
-***Ardunio Uno bağlantıısı sağlanıp oyun başladıktan sonraki görünümü ***
+***Ardunio Uno bağlantıısı sağlanıp oyun başladıktan sonraki görünümü***
 
 
 ![image](https://user-images.githubusercontent.com/59871974/177016166-9edd5274-03cb-404d-8ef8-c34f247454eb.png)
